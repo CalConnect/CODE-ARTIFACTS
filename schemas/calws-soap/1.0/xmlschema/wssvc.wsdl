@@ -1,214 +1,234 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
-<head>
-  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.calconnect.org/sites/default/files/calconnect.ico" type="image/vnd.microsoft.icon" />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://www.calconnect.org/" />
-<link rel="shortlink" href="https://www.calconnect.org/" />
-<meta property="og:site_name" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.calconnect.org/" />
-<meta property="og:title" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://www.calconnect.org/" />
-<meta name="twitter:title" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta itemprop="name" content="CalConnect: The Calendaring and Scheduling Consortium" />
-  <title>Page not found | CalConnect: The Calendaring and Scheduling Consortium</title>
-  <link href='https://fonts.googleapis.com/css?family=Ek+Mukta:700,400,300,200|Hind' rel='stylesheet' type='text/css'>
-  <link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_yZUjTusQpUMWNGwQt-9epw3ZUk0jrLF8k-8mWL7aAas.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_47yg_uC9xWCroc4_ngnJj4rOfHQnDsstiHXGbgZ83ps.css" media="all" />
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://www.calconnect.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
-<script src="https://www.calconnect.org/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.calconnect.org/misc/drupal.js?o36oyv"></script>
-<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"calconnect","theme_token":"-yYURqYu2ANeNXNvhyr-oJY5Kom7jPhUwBSTTJVhe_M","js":{"sites\/all\/modules\/addthis\/addthis.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/calconnect\/css\/calconnect.css":1,"sites\/all\/themes\/calconnect\/css\/calconnect-responsive.css":1}},"urlIsAjaxTrusted":{"\/artifacts\/schemas\/calws-soap\/1.0\/xmlschema\/wssvc.wsdl":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-</head>
-<body role="document" class="html not-front not-logged-in no-sidebars page-artifacts page-artifacts-schemas page-artifacts-schemas-calws-soap page-artifacts-schemas-calws-soap- page-artifacts-schemas-calws-soap-10 page-artifacts-schemas-calws-soap-xmlschema page-artifacts-schemas-calws-soap-xmlschema-wssvcwsdl">
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <header id="topbar" role="banner">
-  <div id="topbar-inner" class="navbar container">
-            <div class="region region-topheader">
-    <section id="block-block-1" class="block block-block ">
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://docs.oasis-open.org/ws-calendar/ns/soap" 
+                  xmlns:s="http://www.w3.org/2001/XMLSchema" 
+                  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" 
+                  targetNamespace="http://docs.oasis-open.org/ws-calendar/ns/soap" 
+                  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema>
+      <s:import schemaLocation="wsmessages.xsd" 
+                namespace="http://docs.oasis-open.org/ws-calendar/ns/soap" />
+    </s:schema>
+  </wsdl:types> 
 
-      
-  <div id="memberLogin" class="hidden-xs">
-  <a href="/members">
-    Member Login
-    <span class="glyphicon glyphicon-lock"></span>
-  </a>
-</div>
-<div id="titleBar">
-  <a href="/"><span class="hidden-xs">CalConnect : </span>The Calendaring and Scheduling Consortium</a>
-</div>
-</section>
-  </div>
-      </div>
-</header>
-<header id="navbar" role="banner">
-  <div id="navbar-inner" class="navbar container">
-    <div class="navbar-header">
-              <a class="logo navbar-btn pull-left" href="/" title="Home">
-          <img src="https://www.calconnect.org/sites/all/themes/calconnect/logo.png" alt="Home" />
-        </a>
-      
-      
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-          </div>
+  <!-- =========================== getProperties =========================== -->  
 
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                                            <div class="region region-navigation">
-    <section id="block-search-form" class="block block-search ">
+  <wsdl:message name="GetPropertiesIn">
+    <wsdl:part name="request" element="tns:getProperties" />
+  </wsdl:message>
+  
+  <wsdl:message name="GetPropertiesOut">
+    <wsdl:part name="response" element="tns:getPropertiesResponse" />
+  </wsdl:message>
 
-      
-  <form class="form-search content-search" action="/artifacts/schemas/calws-soap/1.0/xmlschema/wssvc.wsdl" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
-      <h2 class="element-invisible">Search form</h2>
-    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
-</div><input type="hidden" name="form_build_id" value="form-GWAIpe8qSVxmuObfO2WUfg5BJFdUanXoWVDfQQLSRgo" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>
-</section>
-<section id="block-search-icon" class="block block-block ">
+  <!-- =========================== freebusyQuery =========================== -->
 
-      
-  <a href="/search"><span class="glyphicon glyphicon-search"></span></a>
-</section>
-  </div>
-                  </nav>
-      </div>
-      </div>
-</header>
+  <wsdl:message name="FreebusyReportIn">
+    <wsdl:part name="request" element="tns:freebusyReport" />
+  </wsdl:message>
+  
+  <wsdl:message name="FreebusyReportOut">
+    <wsdl:part name="response" element="tns:freebusyReportResponse" />
+  </wsdl:message>
 
-<div class="main-container container">
+  <!-- =========================== calendarQuery =========================== -->
 
-  <header role="banner" id="page-header">
+  <wsdl:message name="CalendarQueryIn">
+    <wsdl:part name="request" element="tns:calendarQuery" />
+  </wsdl:message>
+  
+  <wsdl:message name="CalendarQueryOut">
+    <wsdl:part name="response" element="tns:calendarQueryResponse"/>
+  </wsdl:message>
+
+  <!-- ========================= calendarMultiget ========================== -->
+
+  <wsdl:message name="CalendarMultigetIn">
+    <wsdl:part name="request" element="tns:calendarMultiget" />
+  </wsdl:message>
+  
+  <wsdl:message name="CalendarMultigetOut">
+    <wsdl:part name="response" element="tns:calendarQueryResponse"/>
+  </wsdl:message>
+
+  <!-- ============================= addItem =============================== -->  
+
+  <wsdl:message name="AddItemIn">
+    <wsdl:part name="request" element="tns:addItem" />
+  </wsdl:message>
+  
+  <wsdl:message name="AddItemOut">
+    <wsdl:part name="response" element="tns:addItemResponse" />
+  </wsdl:message>
+
+  <!-- ============================= fetchItem =============================== -->  
+
+  <wsdl:message name="FetchItemIn">
+    <wsdl:part name="request" element="tns:fetchItem" />
+  </wsdl:message>
+  
+  <wsdl:message name="FetchItemOut">
+    <wsdl:part name="response" element="tns:fetchItemResponse" />
+  </wsdl:message>
+
+  <!-- ============================= deleteItem =============================== -->  
+
+  <wsdl:message name="DeleteItemIn">
+    <wsdl:part name="request" element="tns:deleteItem" />
+  </wsdl:message>
+  
+  <wsdl:message name="DeleteItemOut">
+    <wsdl:part name="response" element="tns:deleteItemResponse" />
+  </wsdl:message>
+
+  <!-- ============================= UpdateItem =============================== -->  
+
+  <wsdl:message name="UpdateItemIn">
+    <wsdl:part name="request" element="tns:updateItem" />
+  </wsdl:message>
+  
+  <wsdl:message name="UpdateItemOut">
+    <wsdl:part name="response" element="tns:updateItemResponse" />
+  </wsdl:message>
+
+  <!-- ============================== port ================================= -->  
+  
+  <wsdl:portType name="CalWsServicePortType">
+    <wsdl:operation name="GetProperties">
+      <wsdl:input message="tns:GetPropertiesIn" />
+      <wsdl:output message="tns:GetPropertiesOut" />
+    </wsdl:operation>
     
-      </header> <!-- /#page-header -->
-
-  <div class="row">
-
+    <wsdl:operation name="FreebusyReport">
+      <wsdl:input message="tns:FreebusyReportIn" />
+      <wsdl:output message="tns:FreebusyReportOut" />
+    </wsdl:operation>
     
-    <section class="col-sm-12">
-                  <a id="main-content"></a>
-                    <h1 class="page-header">Page not found</h1>
-                                                          <div class="region region-content">
-    <section id="block-system-main" class="block block-system ">
-
-      
-  The requested page "/artifacts/schemas/calws-soap/1.0/xmlschema/wssvc.wsdl" could not be found.
-</section>
-  </div>
-    </section>
-
+    <wsdl:operation name="CalendarQuery">
+      <wsdl:input message="tns:CalendarQueryIn" />
+      <wsdl:output message="tns:CalendarQueryOut" />
+    </wsdl:operation>
     
-  </div>
-</div>
+    <wsdl:operation name="CalendarMultiget">
+      <wsdl:input message="tns:CalendarMultigetIn" />
+      <wsdl:output message="tns:CalendarMultigetOut" />
+    </wsdl:operation>
+    
+    <wsdl:operation name="AddItem">
+      <wsdl:input message="tns:AddItemIn" />
+      <wsdl:output message="tns:AddItemOut" />
+    </wsdl:operation>
+    
+    <wsdl:operation name="FetchItem">
+      <wsdl:input message="tns:FetchItemIn" />
+      <wsdl:output message="tns:FetchItemOut" />
+    </wsdl:operation>
+    
+    <wsdl:operation name="DeleteItem">
+      <wsdl:input message="tns:DeleteItemIn" />
+      <wsdl:output message="tns:DeleteItemOut" />
+    </wsdl:operation>
+    
+    <wsdl:operation name="UpdateItem">
+      <wsdl:input message="tns:UpdateItemIn" />
+      <wsdl:output message="tns:UpdateItemOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  
+  <!-- ============================ binding ================================ -->  
+  
+  <wsdl:binding name="CalWsServiceBinding" 
+                type="tns:CalWsServicePortType">
+    <wsdl:documentation>
+      <wsi:Claim conformsTo="http://ws-i.org/profiles/basic/1.0" 
+                 xmlns:wsi="http://ws-i.org/schemas/conformanceClaim/" />
+    </wsdl:documentation>
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    
+    <wsdl:operation name="GetProperties">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/getProperties" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="FreebusyReport">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/FreebusyReport" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="CalendarQuery">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/CalendarQuery" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="CalendarMultiget">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/CalendarMultiget" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="AddItem">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/addItem" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="FetchItem">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/fetchItem" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="DeleteItem">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/deleteItem" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+    
+    <wsdl:operation name="UpdateItem">
+      <soap:operation soapAction="http://docs.oasis-open.org/ws-calendar/ns/soap/updateItem" />
+      <wsdl:input>
+        <soap:body use="literal" parts="request" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" parts="response" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
 
-  <div id="sitemap">
-    <div id="sitemap-inner" class="container">
-        <div class="region region-sitemap">
-    <section id="block-menu-block-1" class="block block-menu-block ">
-
-      
-  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
-  <ul class="menu nav"><li class="first expanded menu-mlid-390"><a href="/about">About</a><ul class="menu nav"><li class="first leaf menu-mlid-400"><a href="/about" title="">Introduction</a></li>
-<li class="leaf menu-mlid-399"><a href="/about/definitions">Definitions</a></li>
-<li class="leaf menu-mlid-416"><a href="/about/goals">Goals</a></li>
-<li class="leaf menu-mlid-417"><a href="/about/structure">Structure</a></li>
-<li class="leaf has-children menu-mlid-500"><a href="/about/technical-committees">Technical Committees</a></li>
-<li class="leaf menu-mlid-542"><a href="/about/major-work-projects">Major Work Projects</a></li>
-<li class="leaf has-children menu-mlid-501"><a href="/about/policies">Policies</a></li>
-<li class="leaf menu-mlid-543"><a href="/about/board-directors">Board of Directors</a></li>
-<li class="leaf menu-mlid-540"><a href="/about/liaisons-and-relationships">Liaisons and Relationships</a></li>
-<li class="last leaf menu-mlid-505"><a href="/about/history">History</a></li>
-</ul></li>
-<li class="expanded menu-mlid-393"><a href="/membership">Membership</a><ul class="menu nav"><li class="first leaf menu-mlid-418"><a href="/membership" title="">CalConnect Members</a></li>
-<li class="leaf menu-mlid-402"><a href="/membership/you-and-calconnect">You and CalConnect?</a></li>
-<li class="leaf menu-mlid-420"><a href="/membership/why-join">Why Join?</a></li>
-<li class="leaf menu-mlid-441"><a href="/membership/who-may-join">Who May Join?</a></li>
-<li class="leaf menu-mlid-442"><a href="/membership/membership-benefits">Membership Benefits</a></li>
-<li class="leaf menu-mlid-443"><a href="/membership/membership-categories-and-fees">Membership Categories and Fees</a></li>
-<li class="leaf menu-mlid-506"><a href="/membership/emergent-vendors">Emergent Vendors</a></li>
-<li class="leaf menu-mlid-507"><a href="/membership/membership-agreement">Membership Agreement</a></li>
-<li class="leaf menu-mlid-508"><a href="/membership/code-conduct">Code of Conduct</a></li>
-<li class="leaf menu-mlid-535"><a href="/membership/membership-application">Membership Application</a></li>
-<li class="last leaf menu-mlid-536"><a href="/membership/distinguished-service-award">Distinguished Service Award</a></li>
-</ul></li>
-<li class="expanded menu-mlid-419"><a href="/events">Events</a><ul class="menu nav"><li class="first leaf has-children menu-mlid-404"><a href="/events" title="">Upcoming Events</a></li>
-<li class="leaf menu-mlid-555"><a href="/events/past-events">Past Events</a></li>
-<li class="leaf has-children menu-mlid-558"><a href="/events/event-registration-payment">Event Registration &amp; Payment</a></li>
-<li class="leaf has-children menu-mlid-401"><a href="/events/events-activities">Events &amp; Activities</a></li>
-<li class="leaf menu-mlid-537"><a href="/events/event-reports">Event Reports</a></li>
-<li class="last leaf menu-mlid-656"><a href="/events/calendars">Calendars</a></li>
-</ul></li>
-<li class="expanded menu-mlid-495"><a href="/news" title="">News</a><ul class="menu nav"><li class="first leaf menu-mlid-545"><a href="/news" title="">Latest News</a></li>
-<li class="leaf menu-mlid-548"><a href="/news/presentations">Presentations</a></li>
-<li class="leaf menu-mlid-544"><a href="/news/press-releases">Press Releases</a></li>
-<li class="last leaf menu-mlid-549"><a href="/news/media-resources">Media Resources</a></li>
-</ul></li>
-<li class="expanded menu-mlid-395"><a href="/resources">Resources</a><ul class="menu nav"><li class="first leaf menu-mlid-547"><a href="/resources" title="">Resources</a></li>
-<li class="leaf menu-mlid-641"><a href="/resources/introduction-internet-calendaring">Introduction to Internet Calendaring</a></li>
-<li class="leaf menu-mlid-637"><a href="/resources/glossary">Glossary</a></li>
-<li class="leaf menu-mlid-561"><a href="/resources/calendaring-standards">Calendaring Standards</a></li>
-<li class="leaf has-children menu-mlid-577"><a href="/resources/7-things-you-should-know-about">7 Things You Should Know About...</a></li>
-<li class="leaf menu-mlid-638"><a href="/resources/getting-started">Getting Started...</a></li>
-<li class="leaf menu-mlid-546"><a href="/resources/discussion-lists">Discussion Lists</a></li>
-<li class="leaf menu-mlid-639"><a href="/resources/bug-reporting-links">Bug Reporting Links</a></li>
-<li class="leaf has-children menu-mlid-662"><a href="/resources/documents">Documents</a></li>
-<li class="leaf menu-mlid-671"><a href="/resources/architectural-diagrams">Architectural Diagrams</a></li>
-<li class="leaf has-children menu-mlid-672"><a href="/resources/code-artifacts">Code Artifacts</a></li>
-<li class="leaf menu-mlid-675"><a href="/resources/collaborations">Collaborations</a></li>
-<li class="leaf menu-mlid-676"><a href="/resources/ietf-submissions">IETF Submissions</a></li>
-<li class="leaf has-children menu-mlid-677"><a href="/resources/daylight-saving-time">Daylight Saving Time</a></li>
-<li class="last leaf has-children menu-mlid-659"><a href="/resources/testing-tools-and-links">Testing, Tools, and Links</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-396"><a href="/contact">Contact</a></li>
-</ul></div>
-
-</section>
-  </div>
-    </div>
-  </div>
-
-  <footer id="footer" role="contentinfo">
-    <div id="footer-inner" class="container">
-        <div class="region region-footer">
-    <section id="block-block-3" class="block block-block ">
-
-      
-  <div id="footer-right">
-  Copyright &copy; 2016 The Calendaring and Scheduling Consortium. 
-  <a href="/about/policies/copyright-licensing">Copyright and Licensing Information</a>
-</div>
-<div id="footer-left">
-  CalConnect<sup>SM</sup> is a Service Mark of The 
-  Calendaring and Scheduling Consortium.
-</div>
-
-</section>
-  </div>
-    </div>
-  </footer>
-  <script src="https://www.calconnect.org/sites/all/modules/addthis/addthis.js?o36oyv"></script>
-<script src="https://www.calconnect.org/sites/all/themes/bootstrap/js/bootstrap.js?o36oyv"></script>
-</body>
-</html>
+  <wsdl:service name="CalWsService">
+    <wsdl:port name="CalWsPort" binding="tns:CalWsServiceBinding">
+       <soap:address location="@SERVICE-URL@"></soap:address>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>  

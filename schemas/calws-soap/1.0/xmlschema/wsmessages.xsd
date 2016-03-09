@@ -1,214 +1,1181 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="fb: http://www.facebook.com/2008/fbml og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
-<head>
-  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="shortcut icon" href="https://www.calconnect.org/sites/default/files/calconnect.ico" type="image/vnd.microsoft.icon" />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://www.calconnect.org/" />
-<link rel="shortlink" href="https://www.calconnect.org/" />
-<meta property="og:site_name" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.calconnect.org/" />
-<meta property="og:title" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://www.calconnect.org/" />
-<meta name="twitter:title" content="CalConnect: The Calendaring and Scheduling Consortium" />
-<meta itemprop="name" content="CalConnect: The Calendaring and Scheduling Consortium" />
-  <title>Page not found | CalConnect: The Calendaring and Scheduling Consortium</title>
-  <link href='https://fonts.googleapis.com/css?family=Ek+Mukta:700,400,300,200|Hind' rel='stylesheet' type='text/css'>
-  <link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_yZUjTusQpUMWNGwQt-9epw3ZUk0jrLF8k-8mWL7aAas.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
-<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.min.css" media="all" />
-<link type="text/css" rel="stylesheet" href="https://www.calconnect.org/sites/default/files/css/css_47yg_uC9xWCroc4_ngnJj4rOfHQnDsstiHXGbgZ83ps.css" media="all" />
-  <!-- HTML5 element support for IE6-8 -->
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <script src="https://www.calconnect.org/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
-<script src="https://www.calconnect.org/misc/jquery.once.js?v=1.2"></script>
-<script src="https://www.calconnect.org/misc/drupal.js?o36oyv"></script>
-<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"calconnect","theme_token":"vFPff-WA4N07j74hIK8Xb_g1QmC_WUvhd-NW-5ZGQO0","js":{"sites\/all\/modules\/addthis\/addthis.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/calconnect\/css\/calconnect.css":1,"sites\/all\/themes\/calconnect\/css\/calconnect-responsive.css":1}},"urlIsAjaxTrusted":{"\/artifacts\/schemas\/calws-soap\/1.0\/xmlschema\/wsmessages.xsd":true},"bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
-</head>
-<body role="document" class="html not-front not-logged-in no-sidebars page-artifacts page-artifacts-schemas page-artifacts-schemas-calws-soap page-artifacts-schemas-calws-soap- page-artifacts-schemas-calws-soap-10 page-artifacts-schemas-calws-soap-xmlschema page-artifacts-schemas-calws-soap-xmlschema-wsmessagesxsd">
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <header id="topbar" role="banner">
-  <div id="topbar-inner" class="navbar container">
-            <div class="region region-topheader">
-    <section id="block-block-1" class="block block-block ">
-
-      
-  <div id="memberLogin" class="hidden-xs">
-  <a href="/members">
-    Member Login
-    <span class="glyphicon glyphicon-lock"></span>
-  </a>
-</div>
-<div id="titleBar">
-  <a href="/"><span class="hidden-xs">CalConnect : </span>The Calendaring and Scheduling Consortium</a>
-</div>
-</section>
-  </div>
-      </div>
-</header>
-<header id="navbar" role="banner">
-  <div id="navbar-inner" class="navbar container">
-    <div class="navbar-header">
-              <a class="logo navbar-btn pull-left" href="/" title="Home">
-          <img src="https://www.calconnect.org/sites/all/themes/calconnect/logo.png" alt="Home" />
-        </a>
-      
-      
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-          </div>
-
-          <div class="navbar-collapse collapse">
-        <nav role="navigation">
-                                            <div class="region region-navigation">
-    <section id="block-search-form" class="block block-search ">
-
-      
-  <form class="form-search content-search" action="/artifacts/schemas/calws-soap/1.0/xmlschema/wsmessages.xsd" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
-      <h2 class="element-invisible">Search form</h2>
-    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit" name="op" value="Search">Search</button>
-</div><input type="hidden" name="form_build_id" value="form-orGEwZBRX_WXyeNA4kqW4njPj2SrkhN4h_AFrSXLLQ4" />
-<input type="hidden" name="form_id" value="search_block_form" />
-</div>
-</div></form>
-</section>
-<section id="block-search-icon" class="block block-block ">
-
-      
-  <a href="/search"><span class="glyphicon glyphicon-search"></span></a>
-</section>
-  </div>
-                  </nav>
-      </div>
-      </div>
-</header>
-
-<div class="main-container container">
-
-  <header role="banner" id="page-header">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE schema >
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+        xmlns:tns="http://docs.oasis-open.org/ws-calendar/ns/soap" 
+        xmlns:xcal="urn:ietf:params:xml:ns:icalendar-2.0"
+        targetNamespace="http://docs.oasis-open.org/ws-calendar/ns/soap" 
+        elementFormDefault="qualified">
     
-      </header> <!-- /#page-header -->
+  <import schemaLocation="../schemas/icalendar/iCalendar.xsd" 
+          namespace="urn:ietf:params:xml:ns:icalendar-2.0" />
+        
+  <include schemaLocation="wserrors.xsd" />
+  <include schemaLocation="calquery-dav.xsd" />
 
-  <div class="row">
+  <!-- Schema for CalWS SOAP messages. -->
+ 
+  <simpleType name="StatusType">
+    <annotation>
+      <documentation xml:lang="en">
+           OK: the response was returned successfully.
+           Not Found: The targeted resource was not found.
+           Warning: A response returned but may be incomplete
+           No Access: no access to the targeted resource(s)
+           Service Stopped: service is (temporarily) unavailable
+           Error: some sort of failure
+      </documentation>
+    </annotation>
+    <restriction base="string">
+      <enumeration value="OK" />
+      <enumeration value="Not Found" />
+      <enumeration value="Warning" />
+      <enumeration value="No Access" />
+      <enumeration value="Service Stopped" />
+      <enumeration value="Error" />
+    </restriction>
+  </simpleType>
+  
+  <simpleType name="DepthType">
+    <restriction base="string">
+    </restriction>
+  </simpleType>
+  
+  <element name="depth" type="tns:DepthType" />
 
+  <complexType name="BaseRequestType">
+    <annotation>
+      <documentation xml:lang="en">
+           Requests have this as the base type.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="href" type="string" />
+    </sequence>
     
-    <section class="col-sm-12">
-                  <a id="main-content"></a>
-                    <h1 class="page-header">Page not found</h1>
-                                                          <div class="region region-content">
-    <section id="block-system-main" class="block block-system ">
-
-      
-  The requested page "/artifacts/schemas/calws-soap/1.0/xmlschema/wsmessages.xsd" could not be found.
-</section>
-  </div>
-    </section>
-
+    <attribute name="id" type="int" default="0" />
+  </complexType>
+  
+  <complexType name="BaseResponseType" abstract="true">
+    <annotation>
+      <documentation xml:lang="en">
+           Responses have this as the base type. If the request had an id 
+           attribute its value will be set as the response id attribute value.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="status" type="tns:StatusType" />
+      <element name="message" type="string" minOccurs="0" />
+      <element name="errorResponse" type="tns:ErrorResponseType" minOccurs="0" />
+    </sequence>
     
-  </div>
-</div>
+    <attribute name="id" type="int" default="0" />
+  </complexType>
+  
+  <element name="baseResponse" type="tns:BaseResponseType" abstract="true"/>
 
-  <div id="sitemap">
-    <div id="sitemap-inner" class="container">
-        <div class="region region-sitemap">
-    <section id="block-menu-block-1" class="block block-menu-block ">
+  <complexType name="UTCTimeRangeType">
+    <sequence>
+      <element name="start" type="xcal:UTCDateTimeType" minOccurs="0" />
+      <element name="end" type="xcal:UTCDateTimeType" minOccurs="0" />
+    </sequence>
+  </complexType>
 
-      
-  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
-  <ul class="menu nav"><li class="first expanded menu-mlid-390"><a href="/about">About</a><ul class="menu nav"><li class="first leaf menu-mlid-400"><a href="/about" title="">Introduction</a></li>
-<li class="leaf menu-mlid-399"><a href="/about/definitions">Definitions</a></li>
-<li class="leaf menu-mlid-416"><a href="/about/goals">Goals</a></li>
-<li class="leaf menu-mlid-417"><a href="/about/structure">Structure</a></li>
-<li class="leaf has-children menu-mlid-500"><a href="/about/technical-committees">Technical Committees</a></li>
-<li class="leaf menu-mlid-542"><a href="/about/major-work-projects">Major Work Projects</a></li>
-<li class="leaf has-children menu-mlid-501"><a href="/about/policies">Policies</a></li>
-<li class="leaf menu-mlid-543"><a href="/about/board-directors">Board of Directors</a></li>
-<li class="leaf menu-mlid-540"><a href="/about/liaisons-and-relationships">Liaisons and Relationships</a></li>
-<li class="last leaf menu-mlid-505"><a href="/about/history">History</a></li>
-</ul></li>
-<li class="expanded menu-mlid-393"><a href="/membership">Membership</a><ul class="menu nav"><li class="first leaf menu-mlid-418"><a href="/membership" title="">CalConnect Members</a></li>
-<li class="leaf menu-mlid-402"><a href="/membership/you-and-calconnect">You and CalConnect?</a></li>
-<li class="leaf menu-mlid-420"><a href="/membership/why-join">Why Join?</a></li>
-<li class="leaf menu-mlid-441"><a href="/membership/who-may-join">Who May Join?</a></li>
-<li class="leaf menu-mlid-442"><a href="/membership/membership-benefits">Membership Benefits</a></li>
-<li class="leaf menu-mlid-443"><a href="/membership/membership-categories-and-fees">Membership Categories and Fees</a></li>
-<li class="leaf menu-mlid-506"><a href="/membership/emergent-vendors">Emergent Vendors</a></li>
-<li class="leaf menu-mlid-507"><a href="/membership/membership-agreement">Membership Agreement</a></li>
-<li class="leaf menu-mlid-508"><a href="/membership/code-conduct">Code of Conduct</a></li>
-<li class="leaf menu-mlid-535"><a href="/membership/membership-application">Membership Application</a></li>
-<li class="last leaf menu-mlid-536"><a href="/membership/distinguished-service-award">Distinguished Service Award</a></li>
-</ul></li>
-<li class="expanded menu-mlid-419"><a href="/events">Events</a><ul class="menu nav"><li class="first leaf has-children menu-mlid-404"><a href="/events" title="">Upcoming Events</a></li>
-<li class="leaf menu-mlid-555"><a href="/events/past-events">Past Events</a></li>
-<li class="leaf has-children menu-mlid-558"><a href="/events/event-registration-payment">Event Registration &amp; Payment</a></li>
-<li class="leaf has-children menu-mlid-401"><a href="/events/events-activities">Events &amp; Activities</a></li>
-<li class="leaf menu-mlid-537"><a href="/events/event-reports">Event Reports</a></li>
-<li class="last leaf menu-mlid-656"><a href="/events/calendars">Calendars</a></li>
-</ul></li>
-<li class="expanded menu-mlid-495"><a href="/news" title="">News</a><ul class="menu nav"><li class="first leaf menu-mlid-545"><a href="/news" title="">Latest News</a></li>
-<li class="leaf menu-mlid-548"><a href="/news/presentations">Presentations</a></li>
-<li class="leaf menu-mlid-544"><a href="/news/press-releases">Press Releases</a></li>
-<li class="last leaf menu-mlid-549"><a href="/news/media-resources">Media Resources</a></li>
-</ul></li>
-<li class="expanded menu-mlid-395"><a href="/resources">Resources</a><ul class="menu nav"><li class="first leaf menu-mlid-547"><a href="/resources" title="">Resources</a></li>
-<li class="leaf menu-mlid-641"><a href="/resources/introduction-internet-calendaring">Introduction to Internet Calendaring</a></li>
-<li class="leaf menu-mlid-637"><a href="/resources/glossary">Glossary</a></li>
-<li class="leaf menu-mlid-561"><a href="/resources/calendaring-standards">Calendaring Standards</a></li>
-<li class="leaf has-children menu-mlid-577"><a href="/resources/7-things-you-should-know-about">7 Things You Should Know About...</a></li>
-<li class="leaf menu-mlid-638"><a href="/resources/getting-started">Getting Started...</a></li>
-<li class="leaf menu-mlid-546"><a href="/resources/discussion-lists">Discussion Lists</a></li>
-<li class="leaf menu-mlid-639"><a href="/resources/bug-reporting-links">Bug Reporting Links</a></li>
-<li class="leaf has-children menu-mlid-662"><a href="/resources/documents">Documents</a></li>
-<li class="leaf menu-mlid-671"><a href="/resources/architectural-diagrams">Architectural Diagrams</a></li>
-<li class="leaf has-children menu-mlid-672"><a href="/resources/code-artifacts">Code Artifacts</a></li>
-<li class="leaf menu-mlid-675"><a href="/resources/collaborations">Collaborations</a></li>
-<li class="leaf menu-mlid-676"><a href="/resources/ietf-submissions">IETF Submissions</a></li>
-<li class="leaf has-children menu-mlid-677"><a href="/resources/daylight-saving-time">Daylight Saving Time</a></li>
-<li class="last leaf has-children menu-mlid-659"><a href="/resources/testing-tools-and-links">Testing, Tools, and Links</a></li>
-</ul></li>
-<li class="last leaf menu-mlid-396"><a href="/contact">Contact</a></li>
-</ul></div>
+  <!-- =========================== getProperties =========================== -->
+  
+  <complexType name="GetPropertiesType">
+    <annotation>
+      <documentation xml:lang="en">
+           Fetch the properties for the targeted resource. The target may be
+           the system itself ("/"), a principal, a collection resource or an entity.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="getProperties" 
+           type="tns:GetPropertiesType" />
+  
+  <complexType name="GetPropertiesResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+         Respond to the getProperties request. The response contains the href 
+         of the targeted resource and a set of properties for that resource.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="href" type="string" />
+          <choice minOccurs="0" maxOccurs="unbounded">
+            <element ref="tns:childCollection" />
+            <element ref="tns:creationDateTime" />
+            <element ref="tns:displayName" />
+            <element ref="tns:lastModifiedDateTime" />
+            <element ref="tns:maxAttendeesPerInstance" />
+            <element ref="tns:maxDateTime" />
+            <element ref="tns:maxInstances" />
+            <element ref="tns:maxResourceSize" />
+            <element ref="tns:minDateTime" />
+            <element ref="tns:principalHome" />
+            <element ref="tns:resourceDescription" />
+            <element ref="tns:resourceOwner" />
+            <element ref="tns:resourceType" />
+            <element ref="tns:resourceTimezoneId" />
+            <element ref="tns:supportedCalendarComponentSet" />
+            <element ref="tns:supportedFeatures" />
+            <element ref="tns:timezoneServer" />
+          </choice>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
 
-</section>
-  </div>
-    </div>
-  </div>
+  <element name="getPropertiesResponse" type="tns:GetPropertiesResponseType" />
 
-  <footer id="footer" role="contentinfo">
-    <div id="footer-inner" class="container">
-        <div class="region region-footer">
-    <section id="block-block-3" class="block block-block ">
+  <complexType name="GetPropertiesBasePropertyType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type from which all returned properties are extended. 
+      </documentation>
+    </annotation>
+  </complexType>
 
-      
-  <div id="footer-right">
-  Copyright &copy; 2016 The Calendaring and Scheduling Consortium. 
-  <a href="/about/policies/copyright-licensing">Copyright and Licensing Information</a>
-</div>
-<div id="footer-left">
-  CalConnect<sup>SM</sup> is a Service Mark of The 
-  Calendaring and Scheduling Consortium.
-</div>
+  <complexType name="DateTimePropertyType">
+    <annotation>
+      <documentation xml:lang="en">
+           Base type for date time properties returned in GetPropertiesResponse. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <element name="dateTime" type="dateTime" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
 
-</section>
-  </div>
-    </div>
-  </footer>
-  <script src="https://www.calconnect.org/sites/all/modules/addthis/addthis.js?o36oyv"></script>
-<script src="https://www.calconnect.org/sites/all/themes/bootstrap/js/bootstrap.js?o36oyv"></script>
-</body>
-</html>
+  <complexType name="IntegerPropertyType">
+    <annotation>
+      <documentation xml:lang="en">
+           Base type for integer properties returned in GetPropertiesResponse. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <element name="integer" type="integer" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <complexType name="StringPropertyType">
+    <annotation>
+      <documentation xml:lang="en">
+           Base type for string properties returned in GetPropertiesResponse. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <element name="string" type="string" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <complexType name="ChildCollectionType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse to provide references to child
+           collections. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <element name="href" type="string" />
+          <choice minOccurs="0" maxOccurs="unbounded">
+            <element ref="tns:calendarCollection" />
+            <element ref="tns:collection" />
+          </choice>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <element name="childCollection" type="tns:ChildCollectionType" />
+
+  <complexType name="CreationDateTimeType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse to define the creation date
+           and time of the targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:DateTimePropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="creationDateTime" type="tns:CreationDateTimeType" />
+
+  <complexType name="DisplayNameType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type returned in GetPropertiesResponse to supply a displayable name
+         in the current language for the targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="displayName" type="tns:DisplayNameType" />
+
+  <complexType name="LastModifiedDateTimeType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse to supply the date and time
+           the targeted resource was last modified. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:DateTimePropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="lastModifiedDateTime" type="tns:LastModifiedDateTimeType" />
+
+  <complexType name="MaxAttendeesPerInstanceType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root or any collection resource. It provides the maximum 
+         number of attendees for each instance of a scheduling event.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:IntegerPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="maxAttendeesPerInstance" type="tns:MaxAttendeesPerInstanceType" />
+
+  <complexType name="MaxDateTimeType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root or any collection resource. It provides the maximum 
+         date and time for an event.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:DateTimePropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="maxDateTime" type="tns:MaxDateTimeType" />
+
+  <complexType name="MaxInstancesType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root or any collection resource. It provides the maximum 
+         number of instances for a recurring event.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:IntegerPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="maxInstances" type="tns:MaxInstancesType" />
+
+  <complexType name="MaxResourceSizeType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root or any collection resource. It provides the maximum 
+         size of a resource in octets that the server is willing to accept when 
+         stored in a collection
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:IntegerPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="maxResourceSize" type="tns:MaxResourceSizeType" />
+
+  <complexType name="MinDateTimeType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root. It provides the earliest date and time for an event.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:DateTimePropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="minDateTime" type="tns:MinDateTimeType" />
+
+  <complexType name="PrincipalHomeType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse when targeted at
+         the system root. It provides the home path of the currently authenticated
+         user.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="principalHome" type="tns:PrincipalHomeType" />
+
+  <complexType name="ResourceDescriptionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type returned in GetPropertiesResponse to supply a description
+         of the targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="resourceDescription" type="tns:ResourceDescriptionType" />
+
+  <complexType name="ResourceOwnerType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type returned in GetPropertiesResponse to define the owner
+         of the targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="resourceOwner" type="tns:ResourceOwnerType" />
+
+  <complexType name="ResourceTypeType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse to define the type of the
+           targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <choice minOccurs="0" maxOccurs="unbounded">
+            <element ref="tns:calendarCollection" />
+            <element ref="tns:collection" />
+            <element ref="tns:inbox" />
+            <element ref="tns:outbox" />
+            <element ref="tns:xresource" />
+          </choice>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <complexType name="CollectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a ResourceTypeType identifies the targeted resource 
+         as a collection. 
+      </documentation>
+    </annotation>
+    <sequence>
+    </sequence>
+  </complexType>
+  
+  <element name="collection" type="tns:CollectionType" />
+
+  <complexType name="CalendarCollectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a ResourceTypeType identifies the targeted resource 
+         as a calendaring collection. 
+      </documentation>
+    </annotation>
+    <sequence>
+    </sequence>
+  </complexType>
+  
+  <element name="calendarCollection" type="tns:CalendarCollectionType" />
+
+  <complexType name="InboxType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a ResourceTypeType identifies the targeted resource 
+         as a scheduling inbox. 
+      </documentation>
+    </annotation>
+    <sequence>
+    </sequence>
+  </complexType>
+  
+  <element name="inbox" type="tns:InboxType" />
+
+  <complexType name="OutboxType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a ResourceTypeType identifies the targeted resource 
+         as a scheduling outbox. 
+      </documentation>
+    </annotation>
+    <sequence>
+    </sequence>
+  </complexType>
+  
+  <element name="outbox" type="tns:OutboxType" />
+
+  <complexType name="XresourceType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a ResourceTypeType supplies non-standard type information
+         for the targeted resource. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+  
+  <element name="xresource" type="tns:XresourceType" />
+
+  <element name="resourceType" 
+           type="tns:ResourceTypeType" />
+
+  <complexType name="ResourceTimezoneIdType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type returned in GetPropertiesResponse to supply the current timezone
+         identifier of the targeted resource. This is the timezone which will
+         be used to evaluate floating events.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="resourceTimezoneId" type="tns:ResourceTimezoneIdType" />
+
+  <complexType name="SupportedCalendarComponentSetType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse to define the allowable 
+           component types within a collection or supported by the system.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <element ref="xcal:baseComponent" minOccurs="0" maxOccurs="unbounded"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <element name="supportedCalendarComponentSet" 
+           type="tns:SupportedCalendarComponentSetType" />
+
+  <complexType name="SupportedFeaturesType">
+    <annotation>
+      <documentation xml:lang="en">
+           Type returned in GetPropertiesResponse when targeted at any resource
+           to identify the CalWS features supported by the service. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:GetPropertiesBasePropertyType">
+        <sequence>
+          <choice minOccurs="0" maxOccurs="unbounded">
+            <element ref="tns:calendarAccessFeature" />
+          </choice>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <complexType name="SupportedFeatureType">
+    <annotation>
+      <documentation xml:lang="en">
+         Provides a base type for all supported features 
+      </documentation>
+    </annotation>
+  </complexType>
+
+  <complexType name="CalendarAccessFeatureType">
+    <annotation>
+      <documentation xml:lang="en">
+         When appearing in a SupportedFeaturesType indicates the service supports
+         this protocol. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:SupportedFeatureType">
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="calendarAccessFeature" type="tns:CalendarAccessFeatureType" />
+
+  <element name="supportedFeatures" 
+           type="tns:SupportedFeaturesType" />
+
+  <complexType name="TimezoneServerType">
+    <annotation>
+      <documentation xml:lang="en">
+         Type which may be returned in GetPropertiesResponse. It provides the 
+         url of the timezone server used by the system.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:StringPropertyType"/>
+    </complexContent>
+  </complexType>
+
+  <element name="timezoneServer" type="tns:TimezoneServerType" />
+           
+  <!-- ========================== freebusyReport =========================== -->
+  
+  <complexType name="FreebusyReportType">
+    <annotation>
+      <documentation xml:lang="en">
+           Request a freebusy report on the targeted principal. This is a
+           scheduling freebusy request which incorporates information such as 
+           availability etc. As such the response may depend on information not
+           visible to the caller.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+        <sequence>
+          <element name="time-range" type="tns:UTCTimeRangeType"
+                   minOccurs="0" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="freebusyReport" 
+           type="tns:FreebusyReportType" />
+  
+  <complexType name="FreebusyReportResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Respond to the freebusy request.
+           Returned icalendar data will be an icalendar entity containing a 
+           vfreebusy object. Note that the time period returned may not be as
+           requested. The server is at liberty to extend or truncate the period.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element ref="xcal:icalendar" minOccurs="0" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+
+  <element name="freebusyReportResponse" type="tns:FreebusyReportResponseType"
+           substitutionGroup="tns:baseResponse" />
+
+  <!-- ======================== calendar-query ============================= -->
+  
+  <complexType name="AllpropType">
+    <annotation>
+      <documentation xml:lang="en">
+        Used in a calendar query to specify that all properties be returned.
+        What "all" really means is defined in the specification.
+      </documentation>
+    </annotation>
+  </complexType>
+  
+  <element name="allprop" type="tns:AllpropType" />
+
+<!--   
+  <complexType name="PropnameType">
+    <annotation>
+      <documentation xml:lang="en">
+        Used in a calendar query to specify a property to be returned.
+      </documentation>
+    </annotation>
+  </complexType>
+  
+  <element name="propname" type="tns:PropnameType" />
+   -->
+   
+  <complexType name="CalendarDataResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Calendar data returned as response. Depending on the requested format
+           it will be returned as a string value or an icalendar element
+      </documentation>
+    </annotation>
+    <sequence>
+      <choice>
+        <element name="text" type="string" />
+        <element ref="xcal:icalendar" />
+      </choice>
+    </sequence>
+    
+    <attribute name="content-type" type="string" default="application/calendar+xml" />
+    <attribute name="version" type="string" default="2.0" />
+  </complexType>
+   
+  <complexType name="MultistatusPropElementType">
+    <annotation>
+      <documentation xml:lang="en">
+           prop element type in propstat
+      </documentation>
+    </annotation>
+    <sequence>
+      <choice>
+        <element name="calendar-data" type="tns:CalendarDataResponseType" />
+      </choice>
+    </sequence>
+  </complexType>
+  
+  <complexType name="PropstatType">
+    <annotation>
+      <documentation xml:lang="en">
+           Contains prop elements with the same status
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="prop" type="tns:MultistatusPropElementType"
+                   minOccurs="0" maxOccurs="unbounded" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="propstat" type="tns:PropstatType" />
+
+  <complexType name="MultistatResponseElementType">
+    <annotation>
+      <documentation xml:lang="en">
+           One part of a Multistatus
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="href" type="string" />
+      <element name="changeToken" type="string" />
+      <element ref="tns:propstat" minOccurs="0" maxOccurs="unbounded"/>
+    </sequence>
+  </complexType>
+   
+  <complexType name="MultistatusType">
+    <annotation>
+      <documentation xml:lang="en">
+           Contains multiple MultistatResponseElementType
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="response" type="tns:MultistatResponseElementType" 
+                   minOccurs="0" maxOccurs="unbounded"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <complexType name="CalendarQueryOrMultigetBaseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Base type for query or multiget.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+        <sequence>
+          <choice minOccurs="0">
+            <element ref="tns:allprop" />
+            <element ref="xcal:icalendar" />
+          </choice>
+          <choice minOccurs="0">
+            <element name="expand" type="tns:ExpandType" />
+            <element name="limitRecurrenceSet" type="tns:LimitRecurrenceSetType" />
+          </choice>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <complexType name="CalendarQueryType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to query a calendar.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:CalendarQueryOrMultigetBaseType">
+        <sequence>
+          <element ref="tns:depth" />
+          <element ref="tns:filter" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="calendarQuery" type="tns:CalendarQueryType" />
+  
+  <complexType name="CalendarQueryResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to a calendar query or multiget.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:MultistatusType">
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="calendarQueryResponse" type="tns:CalendarQueryResponseType" />
+
+  <!-- ====================== calendarMultiget ============================= -->
+
+  <complexType name="ArrayOfHrefs">
+    <sequence>
+      <element name="href" type="string" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  
+  <complexType name="CalendarMultigetType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to fetch multiple calendar entities.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:CalendarQueryOrMultigetBaseType">
+        <sequence>
+          <element name="hrefs" type="tns:ArrayOfHrefs" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="calendarMultiget" type="tns:CalendarMultigetType" />
+
+  <!-- 
+         <!ELEMENT calendar-query ((DAV:allprop |
+                                    DAV:propname |
+                                    DAV:prop)?, filter, timezone?, timezone-id?)>
+   -->
+
+  <!-- ========================== addItem ============================== -->
+  
+  <complexType name="AddItemType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to create a calendar item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+        <sequence>
+          <element ref="xcal:icalendar" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="addItem" type="tns:AddItemType" />
+  
+  <complexType name="AddItemResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to message to add an item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="href" type="string" minOccurs="0" />
+          <element name="changeToken" type="string" minOccurs="0" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="addItemResponse" type="tns:AddItemResponseType"
+           substitutionGroup="tns:baseResponse" />
+
+  <!-- ============================ fetchItem ============================== -->
+  
+  <complexType name="FetchItemType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to fetch a calendar item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType"/>
+    </complexContent>
+  </complexType>
+  
+  <element name="fetchItem" type="tns:FetchItemType" />
+  
+  <complexType name="FetchItemResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to message to fetch an item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="changeToken" type="string" minOccurs="0" />
+          <element name="href" type="string" />
+          <element ref="xcal:icalendar" minOccurs="0" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="fetchItemResponse" type="tns:FetchItemResponseType"
+           substitutionGroup="tns:baseResponse" />
+
+  <!-- ============================ deleteItem ============================== -->
+  
+  <complexType name="DeleteItemType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to delete a calendar item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType"/>
+    </complexContent>
+  </complexType>
+  
+  <element name="deleteItem" type="tns:DeleteItemType" />
+  
+  <complexType name="DeleteItemResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to message to delete an item.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType" />
+    </complexContent>
+  </complexType>
+  
+  <element name="deleteItemResponse" type="tns:DeleteItemResponseType"
+           substitutionGroup="tns:baseResponse" />
+
+  <!-- ========================== update-item ============================== -->
+  <!-- This is an XML patch operations specifically for xcalendar updates.
+    
+    As this is intended for use in a SOAP environment the any for the new or
+    replacement value is going to be a problem. However, for icalendar patching we 
+    can restrict the value to be an icalendar element.
+    
+    We select the outer vcalendar then components if we wish to add a component
+  
+    We select a component if we wish to add a property or a component to that 
+    component or if we wish to delete that component 
+  
+    We select a property to change it's parameters or it's value or delete it. The 
+    value can be a parameter to add, a new value for the property or nothing to delete
+    
+    We select a parameter to delete it or change its value. The value is a value-type
+    element
+    
+    All new items here are appended to the children of the targeted parent.
+  -->
+  
+  <complexType name="ComponentsSelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain updates to components. These updates are:
+         
+         zero or more of selections of sub-components to update
+         zero or more additions or removals of components 
+         
+         Removals MUST be processed ahead of additions.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="component" type="tns:ComponentSelectionType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="remove" type="tns:ComponentReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="add" type="tns:ComponentReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  
+  <complexType name="ComponentSelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a selection of a single component. There are no changes
+         that can be applied directly to components. They are containers for 
+         properties or other components.
+      </documentation>
+    </annotation>
+    <sequence>
+      <choice>
+        <element ref="xcal:vcalendar" />
+        <element ref="xcal:baseComponent" />
+      </choice>
+      <element name="properties" type="tns:PropertiesSelectionType"
+               minOccurs="0" /> 
+      <element name="components" type="tns:ComponentsSelectionType"
+               minOccurs="0" /> 
+    </sequence>
+  </complexType>
+  
+  <complexType name="ComponentReferenceType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a new value.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="xcal:baseComponent"/>
+    </sequence> 
+  </complexType>
+  
+  <complexType name="PropertiesSelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain updates to properties. These updates are either a 
+         selection of a property to apply a change and/or to update the 
+         parameters or addition or removal of properties.
+         
+         Removals MUST be processed ahead of additions.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="property" type="tns:PropertySelectionType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="remove" type="tns:PropertyReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="add" type="tns:PropertyReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  
+  <complexType name="PropertySelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a selection of a single property. This selection 
+         can be to apply a value change and/or to update the parameters.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="xcal:baseProperty"/>
+      <element name="parameters" type="tns:ParametersSelectionType"
+               minOccurs="0" /> 
+      <element name="change" type="tns:PropertyReferenceType" minOccurs="0" />
+    </sequence> 
+  </complexType>
+  
+  <complexType name="PropertyReferenceType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a new value for change, a new property for add or 
+         identify the property for remove.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="xcal:baseProperty"/>
+    </sequence> 
+  </complexType>
+  
+  <complexType name="ParametersSelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain updates to parameters. These updates are either a 
+         selection of a parameter to apply a change or addition or removal of
+         parameters.
+         
+         Removals MUST be processed ahead of additions.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element name="parameter" type="tns:ParameterSelectionType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="remove" type="tns:ParameterReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+      <element name="add" type="tns:ParameterReferenceType"
+               minOccurs="0" maxOccurs="unbounded" />
+    </sequence>
+  </complexType>
+  
+  <complexType name="ParameterSelectionType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a selection of a single parameter. This selection 
+         is only to apply a value change.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="xcal:baseParameter"/> 
+      <element name="change" type="tns:ParameterReferenceType" minOccurs="0" />
+    </sequence> 
+  </complexType>
+  
+  <complexType name="ParameterReferenceType">
+    <annotation>
+      <documentation xml:lang="en">
+         Used to contain a new value.
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="xcal:baseParameter"/>
+    </sequence> 
+  </complexType>
+
+  <complexType name="UpdateItemType">
+    <annotation>
+      <documentation xml:lang="en">
+           Message to update a calendar item.
+           
+           The supplied changeToken MUST match the etoken held by the service.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+        <sequence>
+          <element name="changeToken" type="string" />
+          <element name="select" type="tns:ComponentSelectionType" 
+                   maxOccurs="unbounded" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="updateItem" type="tns:UpdateItemType" />
+
+  <complexType name="UpdateItemResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to message to update an item.
+           
+           The server will return a changeToken value which should replace the
+           value currently held by the client. 
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="changeToken" type="string" />
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType> 
+
+  <element name="updateItemResponse" type="tns:UpdateItemResponseType"
+           substitutionGroup="tns:baseResponse" />
+
+  <!-- =========================== multiOp =============================== -->
+
+  <complexType name="ArrayOfOperations">
+    <annotation>
+      <documentation xml:lang="en">
+        A structure containing all the operations allowed within a MultiOpType 
+      </documentation>
+    </annotation>
+    <sequence>
+      <choice minOccurs="1" maxOccurs="unbounded"> 
+        <element ref="tns:getProperties"/>
+        <element ref="tns:freebusyReport"/>
+        <element ref="tns:calendarQuery"/>
+        <element ref="tns:calendarMultiget"/>
+        <element ref="tns:addItem"/>
+        <element ref="tns:fetchItem"/>
+        <element ref="tns:deleteItem"/>
+        <element ref="tns:updateItem"/>
+       </choice>
+    </sequence>
+  </complexType>
+
+  <complexType name="MultiOpType">
+    <annotation>
+      <documentation xml:lang="en">
+           This type is a wrapper around a number of sub-operations allowing 
+           complex structures to be updated in a single, atomic operation.
+           
+           Each sub-operation is one of the other possible operations, e.g. 
+           updateItem, deleteItem etc.
+           
+           Inclusion of a multiOp is disallowed.
+           
+           The response is a MultiOpResponseType which wraps one response per
+           sub-operation. It will terminate on the first failure and all 
+           updates to that point rolled back.
+           
+           Inclusion of an id attribute in the sub-operation request will aid
+           in associating responses with requests.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseRequestType">
+        <sequence>
+          <element name="operations" 
+                   type="tns:ArrayOfOperations"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
+  
+  <element name="multiOp" type="tns:MultiOpType" />
+
+  <complexType name="ArrayOfResponses">
+    <annotation>
+      <documentation xml:lang="en">
+        A structure containing all the responses from a MultiOpType operation 
+      </documentation>
+    </annotation>
+    <sequence>
+      <element ref="tns:baseResponse" minOccurs="0" maxOccurs="unbounded"/>
+    </sequence>
+  </complexType>
+
+  <complexType name="MultiOpResponseType">
+    <annotation>
+      <documentation xml:lang="en">
+           Response to a multi-op message. This is a sequence of responses to 
+           each operation. The multi-op operation itself has a status which is 
+           almost always success. Each embedded response needs to be examined to
+           determine if it succeeded or failed.
+      </documentation>
+    </annotation>
+    <complexContent mixed="false">
+      <extension base="tns:BaseResponseType">
+        <sequence>
+          <element name="responses" 
+                   type="tns:ArrayOfResponses"/>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType> 
+
+  <element name="multiOpResponse" type="tns:MultiOpResponseType" />
+</schema>
